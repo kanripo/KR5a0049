@@ -1,7 +1,8 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:35:21.910444
+# -*- mode: mandoku-view -*-
 #+TITLE: 洞真太極北帝紫微神咒妙經
-#+PROPERTY: DZID  DZ0049
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，1—874 一卷 洞真部本文類
+#+DATE: 2015-08-28 23:35:22
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+<md:KR5a0049_HFL_001-001a>¶<pb:KR5a0049_SJB_001-010874c>
+
